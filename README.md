@@ -1,0 +1,1 @@
+This is the substring method created for the odin project
